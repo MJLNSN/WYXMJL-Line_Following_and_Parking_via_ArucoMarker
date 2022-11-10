@@ -33,7 +33,7 @@ Team numbers: WYX, MJL.
   
     roscore 
   
-  2. Launch the camera on SBC **(in raspberry pi Terminal) **
+  2. Launch the camera on SBC **(in raspberry pi Terminal)**
   
     roslaunch raspicam_node camerav2_410x308_30fps.launch 
   
