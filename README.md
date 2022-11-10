@@ -58,4 +58,5 @@ Team numbers: WYX, MJL.
  
 
 
- https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/parking720p.mp4
+ 
+https://user-images.githubusercontent.com/96321798/201013405-2ef27cb2-c660-4184-bb64-7e05dd6786ca.mp4
