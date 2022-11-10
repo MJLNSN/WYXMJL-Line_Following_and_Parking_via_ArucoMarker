@@ -32,5 +32,4 @@ This is the lab resources for SUSTech EE346.
    roslaunch lane_following race_track.launch 
 
 
-
- ![image](https://https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/demo.gif)
+ ![image](https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/demo.gif)
