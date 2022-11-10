@@ -1,7 +1,10 @@
-# WYXMJL-Line_Following_and_Parking_via_ArucoMarker
-This is the lab4 resource for EE346 given by H.ZHANG. 
+## WYXMJL-Line_Following_and_Parking_via_ArucoMarker
+This is the lab4 resource for EE346.
+
 We aim to achieve lane following and parking via the detection of aruco marker.
-This work was done with the help of Prof.Zhang and TAs.
+
+This work was done with the help of Prof.Zhang and all TAs.
+
 Team numbers: WYX, MJL.
 
 # Steps:
