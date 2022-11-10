@@ -58,4 +58,5 @@ Team numbers: WYX, MJL.
  
 
 
- ![image](https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/parking.gif)
+ ![video](https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/parking720p.mp4)
+ // ![image](https://github.com/MJLNSN/WYXMJL-Line_Following_and_Parking_via_ArucoMarker/blob/main/data/parking.gif)
